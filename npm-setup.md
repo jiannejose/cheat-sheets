@@ -20,5 +20,7 @@
 
 10. `npm install node-normalize-scss --save-dev`
 
-11. gulp sass:watch (to compile main.scss to style.css)
+11. `gulp sass`
+
+11. `gulp sass:watch` (to compile main.scss to style.css)
 
